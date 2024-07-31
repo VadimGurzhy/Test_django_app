@@ -4,7 +4,7 @@
 
 ```
 git clone https://github.com/VadimGurzhy/Test_django_app.git
-
+```
 
 
 Cоздать и активировать виртуальное окружение:
